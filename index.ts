@@ -47,4 +47,5 @@ function fizzBuzz1(num: number): string {
             const splitArray: string[] = text.split(separator);
             return splitArray;
             }
+
             
